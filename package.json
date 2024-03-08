@@ -73,7 +73,7 @@
     "playwright": "^1.41.2",
     "prettier": "^3.2.5",
     "tree-kill": "^1.2.2",
-    "typescript": "^5.3.3",
+    "typescript": "^5.4.2",
     "vite": "^5.1.4",
     "vite-plugin-electron": "0.15.6",
     "vite-plugin-electron-renderer": "^0.14.5",
